@@ -1,6 +1,6 @@
 # Pinocchio
 
-Pinocchio will answer your request as your current of future API. Even if he needs to lie.
+Pinocchio will answer your request as your API. Even if he needs to lie.
 
 ## What is it?
 
@@ -8,7 +8,7 @@ Pinocchio is a library to stubs an API when you can't, or want, to replace the n
 
 It's first appearence was on a SPA that works as ATM for school canteens. It stubs our API, so I my test are more close to what happens at The Real World.
 
-My first need was to test a Single Page Application. That communicates with an API.
+My first need was to test a Single Page Application that communicates with an API.
 The SPA is served by a Rack app, responsible to concatenate every JS and CSS to one file of each kind. And, all html template to one single page HTML with env vars on it.
 
 So, to test this rack application using capybara which leads to good descriptions on how it behaves.
