@@ -40,7 +40,7 @@ Or install it yourself as:
 
 ## Usage
 
-My first need was to test a Single Page Application. That communicates with an API. So, instead of looking for
+My first need was to test a Single Page Application. That communicates with an API.
 
 The use case is simple: you write a bunch of ymls matching HTTP requests your client will do.
 You teach then to Pinocchio and he'll behavior as it is your API.
@@ -50,7 +50,7 @@ But to get to Pinocchio you gotta to do:
 1. Wake up Geppeto, passing a pinewood log with stuffs he can work.
 1. Ask Geppeto to carve a wooden boy
 
-That's all! From your order to Geppeto and the delivery the Blue Fairy will animate thw wooden boy, leaving you with Pinocchio.
+That's all! From your order to Geppeto's delivery the Blue Fairy will animate the wooden boy, leaving you with Pinocchio.
 
 Now, you teach him the lies you would like he knows.
 
