@@ -1,0 +1,7 @@
+method: "get"
+url: "/hello_world"
+response:
+  code: 200
+  Content-Type: "text/plain"
+  body: "Hello World!"
+

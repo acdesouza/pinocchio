@@ -1,0 +1,6 @@
+method: "get"
+url: "/greetings?name=Antonio Carlos"
+response:
+  code: 200
+  Content-Type: "text/plain"
+  body: "Hi, Antonio Carlos!"
